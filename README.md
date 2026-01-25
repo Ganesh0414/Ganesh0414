@@ -29,8 +29,10 @@
 
 ## 🟡 Pacman eating my GitHub contributions
 
+## 🟡 Pacman eating my GitHub contributions
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh0414/Ganesh0414/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/Ganesh0414/Ganesh0414/output/pacman.svg" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh0414&show_icons=true&locale=en" alt="ganesh0414" /></p>
