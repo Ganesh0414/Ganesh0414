@@ -27,6 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh0414&show_icons=true&locale=en&layout=compact" alt="ganesh0414" /></p>
 
+## 🟡 Pacman eating my GitHub contributions
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ganesh0414/Ganesh0414/output/pacman-contribution-graph.svg" />
 </p>
