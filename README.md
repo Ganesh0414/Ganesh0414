@@ -13,8 +13,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ganesh0414&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh0414&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🟡 Pacman Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh0414/Ganesh0414/output/pacman.svg" />
+</p>
 
 ---
 
