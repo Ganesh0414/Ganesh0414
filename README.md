@@ -27,6 +27,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh0414&show_icons=true&locale=en&layout=compact" alt="ganesh0414" /></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh0414/Ganesh0414/output/pacman-contribution-graph.svg" />
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh0414&show_icons=true&locale=en" alt="ganesh0414" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh0414&" alt="ganesh0414" /></p>
