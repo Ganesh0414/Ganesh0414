@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/e77405d6-c5be-4ffc-8631-3a8bf0875335" />
 
 
 # 💫 About Me:
@@ -16,7 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ganesh0414&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh0414&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 Holopin Badges
 
 [![Holopin Badges](https://holopin.io/api/user/ganesh0414)](https://holopin.io/@ganesh0414)
 
