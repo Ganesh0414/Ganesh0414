@@ -1,5 +1,4 @@
-<img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/e77405d6-c5be-4ffc-8631-3a8bf0875335" />
-
+https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif
 
 # 💫 About Me:
 🔭 I’m currently working on: **Full-Stack Projects + Spring Boot + Open Source (SWOC)**  <br>👯 I’m looking to collaborate on: **Beginner-friendly Open Source, Web Apps, Java/Spring projects <br> 💬 Ask me about: Java, JavaScript, Git/GitHub <br>⚡ Fun fact: Life is become Easy in Software engineer
